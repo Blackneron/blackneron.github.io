@@ -1,1 +1,1 @@
-#  Dirty Harry - Clint Eastwood
+#  Clint Eastwood
