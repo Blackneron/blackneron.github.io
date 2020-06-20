@@ -9,3 +9,6 @@ Clinton Eastwood Jr. (born May 31, 1930) is an American actor, film director, pr
 * He has received Academy Award nominations
 * He is best known as Dirty Harry
 
+## Featured quote
+> Sometimes if you want to see a change for the better, you have to take things into your own hands.
+
